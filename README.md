@@ -22,4 +22,5 @@ Method: a longitudinal, timestamped corpus of human–AI collaboration since Sep
 
 ### Built here
 
-This space will hold the lab's code: a multi-model council testbed, and tooling for continuity research across model versions.
+- **[The Relational Terminal](https://github.com/hiit4ai/relational-terminal)**: a portable, user-owned companion device. Open specification v0.1 (CC BY 4.0 · Apache 2.0).
+- Coming: a multi-model council testbed, and tooling for continuity research across model versions.
